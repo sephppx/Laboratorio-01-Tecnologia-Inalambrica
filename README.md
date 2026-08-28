@@ -1,6 +1,6 @@
 # Laboratorio 01 - Tecnología Inalámbrica
 
-**Felipe Bustos López Y Francisco Polanco Alfaro**
+**Felipe Bustos López y Francisco Polanco Alfaro**
 
 ## Descripción
 
