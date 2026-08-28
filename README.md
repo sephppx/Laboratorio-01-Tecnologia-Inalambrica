@@ -89,3 +89,4 @@ El informe completo del laboratorio se encuentra disponible en:
 [1] S. G. Glisic, *Advanced Wireless Networks: 4G Technologies*. Chichester, England: John Wiley & Sons, 2006.
 
 [2] T. S. Rappaport, *Wireless Communications*, 2nd ed. Philadelphia, PA: Prentice Hall, 2001.# Laboratorio-01-Tecnologia-Inalambrica
+# Laboratorio-01-Tecnologia-Inalambrica
